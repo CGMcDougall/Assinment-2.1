@@ -16,7 +16,7 @@ i++;
             System.out.println("You know your stuff");
         }
         else{
-          System.out.println("You need to learn an important lesson"); 
+          System.out.println("You will NEVER GET ME LUCKY CHARMS!"); 
           i = 0;
         }
     } 
